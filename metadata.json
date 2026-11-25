@@ -1,0 +1,8 @@
+{
+  "name": "SUGA Ecosystem",
+  "description": "Discover great food, connect with local chefs and food vendors, and enjoy smoother food ordering and delivery with the SUGA Ecosystem mobile app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
